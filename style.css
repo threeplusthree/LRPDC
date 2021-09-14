@@ -1,0 +1,23 @@
+body
+{
+  font-size:20vw;
+  color:black;
+  text-align:center;
+  padding-top:20vh;
+  font-family:impact;
+  text-shadow:white 0 0 3vw;
+  transition:background-color 200ms;
+}
+#small
+{
+  font-size:15vw;
+}
+#clock
+{
+  position:absolute;
+  font-size:5vw;
+  right:2vw;
+  bottom:2vw;
+  font-family:나눔스퀘어;
+  text-shadow:white 0 0 0.5vw;
+}
